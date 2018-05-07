@@ -24,3 +24,4 @@ Back when I had free time, I enjoyed doing
 [street photography](https://en.wikipedia.org/wiki/Street_photography).
 
 ![Street Photo](ARGilbert-20170912-ChicagoStreet06-84.jpg)
+adding a line
